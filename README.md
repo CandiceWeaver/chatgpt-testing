@@ -23,7 +23,7 @@ To start with, I told ChatGPT to be a helpful assistant. I then asked what the o
 
 This example follows on from the previous one. I took an except from ChatGPT's answer and used that as an answer to the original question. I then asked where those counties can be found.
 
-![Longer Text to Text Output](/output-text-to-text-short.png "Longer Text to Text Output")
+![Longer Text to Text Output](/output-text-to-text-long.png "Longer Text to Text Output")
 
 I also narrowed down the answer so we only get ChatGPT's new answer returned.
 
@@ -31,7 +31,7 @@ I also narrowed down the answer so we only get ChatGPT's new answer returned.
 
 For this example, I gave ChatGPT the link to a stock photo of a dog wearing glasses and asked what the creature (the dog) is wearing.
 
-![Image to Text Output](/output-text-to-text-short.png "Image to Text Output")
+![Image to Text Output](/output-image-to-text.png "Image to Text Output")
 
 *Please note, I included the photo in the project's folder and left its file name in a comment about the url.*
 
@@ -39,6 +39,6 @@ For this example, I gave ChatGPT the link to a stock photo of a dog wearing glas
 
 For this example, I gave ChatGPT links to 2 stock photos asked what the differences between the 2 photos are.
 
-![Multiple Images to Text Output](/output-text-to-text-short.png "Multiple Images to Text Output")
+![Multiple Images to Text Output](/output-multiple-images-to-text-comparison.png "Multiple Images to Text Output")
 
 *Again, I included the photos in the project's folder and left the file names in comment about the urls.*
