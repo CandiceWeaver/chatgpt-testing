@@ -4,14 +4,10 @@ Just playing around learning how to implement ChatGPT using Node
 
 ## To install
 
-1. ```
-    npm i
-```
+1. ```npm i```
 
 
-2. ```
-    npm start
-```
+2. ```npm start```
 
 3. Uncomment the section you want, then see the output in the terminal.
 
