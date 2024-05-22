@@ -6,12 +6,15 @@ Just playing around learning how to implement ChatGPT using Node
 
 1. ```npm i```
 
+2. Get an api key from OpenAI and add it into an .env under a variable named ```OPENAI_API_KEY```. Make sure you can use gpt-4o.
 
-2. ```npm start```
+3. ```npm start```
 
-3. Uncomment the section you want, then see the output in the terminal.
+4. Uncomment the section you want, then see the output in the terminal.
 
 ## Examples
+
+I understand you might not be able to see this project in action, so I've included the outputs of the exercises down below. I recommend looking through my code and these examples side by side to understand it better.
 
 1. Text to text conversation
 
