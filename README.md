@@ -6,7 +6,7 @@ Just playing around learning how to implement ChatGPT using Node
 
 1. ```npm i```
 
-2. Get an api key from OpenAI and add it into an .env under a variable named ```OPENAI_API_KEY```. Make sure you can use gpt-4o.
+2. Get an api key from OpenAI and add it into an .env file under a variable named ```OPENAI_API_KEY```. Make sure you can use gpt-4o.
 
 3. ```npm start```
 
